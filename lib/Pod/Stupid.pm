@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Pod::Stupid;
 BEGIN {
-  $Pod::Stupid::VERSION = '0.001';
+  $Pod::Stupid::VERSION = '0.005';
 }
 BEGIN {
   $Pod::Stupid::DIST = 'Pod-Stupid';
@@ -200,7 +200,7 @@ Pod::Stupid - The simplest, stupidest 'pod parser' possible
 
 =head1 VERSION
 
-version 0.001
+version 0.005
 
 =head1 SYNOPSIS
 

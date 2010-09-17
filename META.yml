@@ -20,7 +20,7 @@ name: Pod-Stupid
 provides:
   Pod::Stupid:
     file: lib/Pod/Stupid.pm
-    version: 0.001
+    version: 0.005
 requires:
   Carp: 0
   Data::Dumper: 0
@@ -31,7 +31,7 @@ resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Pod-Stupid
   homepage: http://github.com/Hercynium/Pod-Stupid/tree
   repository: git://github.com/Hercynium/Pod-Stupid.git
-version: 0.001
+version: 0.005
 x_BuiltWith:
   modules:
     Carp: 1.11

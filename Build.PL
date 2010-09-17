@@ -21,7 +21,7 @@ my %module_build_args = (
     'Stephen R. Scaffidi <sscaffidi@cpan.org>'
   ],
   'dist_name' => 'Pod-Stupid',
-  'dist_version' => '0.001',
+  'dist_version' => '0.005',
   'license' => 'perl',
   'module_name' => 'Pod::Stupid',
   'recommends' => {},
